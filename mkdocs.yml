@@ -1,10 +1,10 @@
 site_name: flight-trajectory
-site_url: https://uahypersonics.github.io/flight-trajectory
+site_url: https://hypersonic-aero.github.io/flight-trajectory
 site_author: Christoph Hader
 site_description: Trajectory utilities for atmospheric and flight mechanics workflows.
 
-repo_name: uahypersonics/flight-trajectory
-repo_url: https://github.com/uahypersonics/flight-trajectory
+repo_name: hypersonic-aero/flight-trajectory
+repo_url: https://github.com/hypersonic-aero/flight-trajectory
 edit_uri: edit/main/docs/
 
 theme:

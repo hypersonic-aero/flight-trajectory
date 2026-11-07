@@ -7,8 +7,8 @@ authors:
   - family-names: "Hader"
     given-names: "Christoph"
     orcid: "https://orcid.org/0000-0002-0956-000X"
-repository-code: "https://github.com/uahypersonics/flight-trajectory"
-url: "https://uahypersonics.github.io/flight-trajectory"
+repository-code: "https://github.com/hypersonic-aero/flight-trajectory"
+url: "https://hypersonic-aero.github.io/flight-trajectory"
 license: GPL-3.0-or-later
 keywords:
   - trajectory

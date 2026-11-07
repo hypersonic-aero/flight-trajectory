@@ -43,9 +43,9 @@ docs = [
 flight-trajectory = "flight_trajectory.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/uahypersonics/flight-trajectory"
-Repository = "https://github.com/uahypersonics/flight-trajectory"
-Documentation = "https://uahypersonics.github.io/flight-trajectory"
+Homepage = "https://github.com/hypersonic-aero/flight-trajectory"
+Repository = "https://github.com/hypersonic-aero/flight-trajectory"
+Documentation = "https://hypersonic-aero.github.io/flight-trajectory"
 
 [tool.setuptools.packages.find]
 where = ["src"]
